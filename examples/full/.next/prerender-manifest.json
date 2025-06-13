@@ -1,0 +1,69 @@
+{
+  "version": 4,
+  "routes": {
+    "/": {
+      "initialRevalidateSeconds": 10,
+      "initialExpireSeconds": 31536000,
+      "srcRoute": null,
+      "dataRoute": "/_next/data/8O36nUQO92B4RDXI7hSsF/index.json",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/1e17f34a361a80d2bbd1f73fbd36b5b6": {
+      "initialRevalidateSeconds": 10,
+      "initialExpireSeconds": 31536000,
+      "srcRoute": "/[pageId]",
+      "dataRoute": "/_next/data/8O36nUQO92B4RDXI7hSsF/1e17f34a361a80d2bbd1f73fbd36b5b6.json",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/1e17f34a361a8007bcd0d4bcc2ce8b34": {
+      "initialRevalidateSeconds": 10,
+      "initialExpireSeconds": 31536000,
+      "srcRoute": "/[pageId]",
+      "dataRoute": "/_next/data/8O36nUQO92B4RDXI7hSsF/1e17f34a361a8007bcd0d4bcc2ce8b34.json",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    }
+  },
+  "dynamicRoutes": {
+    "/[pageId]": {
+      "routeRegex": "^/([^/]+?)(?:/)?$",
+      "dataRoute": "/_next/data/8O36nUQO92B4RDXI7hSsF/[pageId].json",
+      "fallback": "/[pageId].html",
+      "dataRouteRegex": "^/_next/data/8O36nUQO92B4RDXI7hSsF/([^/]+?)\\.json$",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    }
+  },
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "033334f7c16ed71687537782575c65af",
+    "previewModeSigningKey": "e576bf991421029b61989683d3a5db90f1c62a273d85eb78e0e4466441f8294b",
+    "previewModeEncryptionKey": "9c222b41a4f00cd48846a8308f79b7bb4798c5869a0781e6a9a28a277b2e0a36"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "..\\..\\node_modules\\.pnpm\\next@15.3.3_react-dom@19.1.0_react@19.1.0__react@19.1.0\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 3627,
+    "files": [
+      "static/chunks/3627.fcf54925459e29df.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\next@15.3.3_react-dom@19.1.0_react@19.1.0__react@19.1.0\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 1478,
+    "files": [
+      "static/chunks/1478.a56bcdd1cc061587.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-bash.js": {
+    "id": 3471,
+    "files": [
+      "static/chunks/3471.36460215b5c22f00.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-c.js": {
+    "id": 7194,
+    "files": [
+      "static/chunks/7194.5125d0d875c4a0d0.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-coffeescript.js": {
+    "id": 490,
+    "files": [
+      "static/chunks/490.6d191a4e7e8c760f.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-cpp.js": {
+    "id": 9194,
+    "files": [
+      "static/chunks/9194.b1571e1811e04827.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-csharp.js": {
+    "id": 5654,
+    "files": [
+      "static/chunks/5654.7236a4626e9ade59.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-diff.js": {
+    "id": 1370,
+    "files": [
+      "static/chunks/1370.cdaa5dcdcd40a91b.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-docker.js": {
+    "id": 3077,
+    "files": [
+      "static/chunks/3077.2b7390fe67ed4f23.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-git.js": {
+    "id": 5763,
+    "files": [
+      "static/chunks/5763.d190acf9117c8d64.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-go.js": {
+    "id": 1315,
+    "files": [
+      "static/chunks/1315.18be81ea8f4cb5e0.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-graphql.js": {
+    "id": 7822,
+    "files": [
+      "static/chunks/7822.58ef1c33047249b3.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-handlebars.js": {
+    "id": 1557,
+    "files": [
+      "static/chunks/1557.a42c37ca861272ce.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-java.js": {
+    "id": 8957,
+    "files": [
+      "static/chunks/8957.bf8e244a9479d2f2.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-js-templates.js": {
+    "id": 1260,
+    "files": [
+      "static/chunks/1260.90e9986696e7fd22.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-less.js": {
+    "id": 9984,
+    "files": [
+      "static/chunks/9984.f6b8b1316103fd35.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-makefile.js": {
+    "id": 1929,
+    "files": [
+      "static/chunks/1929.b57eefc3e63a83c9.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-markdown.js": {
+    "id": 5072,
+    "files": [
+      "static/chunks/5072.ad34c4ea39eea257.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-markup-templating.js": {
+    "id": 5529,
+    "files": [
+      "static/chunks/5529.4131964339d02319.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-markup.js": {
+    "id": 1349,
+    "files": [
+      "static/chunks/1349.0aa921c153ae3c94.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-objectivec.js": {
+    "id": 6537,
+    "files": [
+      "static/chunks/6537.881d1fa8d3a033be.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-ocaml.js": {
+    "id": 8487,
+    "files": [
+      "static/chunks/8487.8692df860c982df1.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-python.js": {
+    "id": 4711,
+    "files": [
+      "static/chunks/4711.7816874428f1c907.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-reason.js": {
+    "id": 5209,
+    "files": [
+      "static/chunks/5209.98a5918b9beb3607.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-rust.js": {
+    "id": 4383,
+    "files": [
+      "static/chunks/4383.90106ee066eb23bc.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-sass.js": {
+    "id": 195,
+    "files": [
+      "static/chunks/195.a194242ddcb9dd45.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-scss.js": {
+    "id": 2369,
+    "files": [
+      "static/chunks/2369.465a5a250565b307.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-solidity.js": {
+    "id": 1496,
+    "files": [
+      "static/chunks/1496.4204fed1938d567f.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-sql.js": {
+    "id": 5271,
+    "files": [
+      "static/chunks/5271.5e7d79e3f1e2fa0f.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-stylus.js": {
+    "id": 8455,
+    "files": [
+      "static/chunks/8455.7b4105ea290f17ff.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-swift.js": {
+    "id": 3776,
+    "files": [
+      "static/chunks/3776.18f799139cc25047.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-wasm.js": {
+    "id": 5245,
+    "files": [
+      "static/chunks/5245.2e9171339ef82dbf.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> prismjs/components/prism-yaml.js": {
+    "id": 9478,
+    "files": [
+      "static/chunks/9478.491315f33679f6f9.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> react-notion-x/build/third-party/code": {
+    "id": 6698,
+    "files": [
+      "static/chunks/4834.21cbfd85d283e644.js",
+      "static/chunks/6698.ead90ecc164571e2.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> react-notion-x/build/third-party/collection": {
+    "id": 9807,
+    "files": [
+      "static/chunks/9807.24c57beb23d2405e.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> react-notion-x/build/third-party/equation": {
+    "id": 1666,
+    "files": [
+      "static/chunks/5430bb26.83031bf6052e56c4.js",
+      "static/chunks/1666.ec40a39ecbbe975a.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> react-notion-x/build/third-party/modal": {
+    "id": 3004,
+    "files": [
+      "static/chunks/2007.c5bacf631a3c85c4.js",
+      "static/chunks/3004.627705682fb5716a.js"
+    ]
+  },
+  "components\\NotionPage.tsx -> react-notion-x/build/third-party/pdf": {
+    "id": 6819,
+    "files": [
+      "static/chunks/717a1995.0679be902d1fc096.js",
+      "static/chunks/1682.3c5dadc8f6785eb6.js",
+      "static/chunks/6819.bbb0a4f7e3f76382.js"
+    ]
+  }
+}

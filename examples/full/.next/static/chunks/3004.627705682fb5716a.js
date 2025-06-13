@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3004],{3004:(e,s,a)=>{a.r(s),a.d(s,{Modal:()=>n});var n=a(2007);n.setAppElement(".notion-frame")}}]);

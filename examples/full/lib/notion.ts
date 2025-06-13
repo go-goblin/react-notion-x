@@ -35,6 +35,6 @@ export async function search(params: SearchParams): Promise<SearchResults> {
   if ('search' in notion) {
     return notion.search(params)
   } else {
-    throw new Error('Notion API does not support search')
+    throw new Error('Notion API does not support search.')
   }
 }

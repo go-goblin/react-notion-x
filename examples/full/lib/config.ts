@@ -1,8 +1,7 @@
 // TODO: change these to your own values
 // NOTE: rootNotionSpaceId is optional; set it to undefined if you don't want to
 // use it.
-export const rootNotionPageId =
-  'Goblin-Backend-Go-1e17f34a361a800f8cbdc18b4312959a'
+export const rootNotionPageId = '1e17f34a361a800f8cbdc18b4312959a'
 export const rootNotionSpaceId = ''
 
 // NOTE: having this enabled can be pretty expensive as it re-generates preview
